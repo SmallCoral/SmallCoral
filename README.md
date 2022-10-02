@@ -34,8 +34,6 @@ Here are some ideas to get you started:
 
 #### 📊 Cool Charts
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=&layout=compact)
-
 [![Github stats](https://github-readme-stats.vercel.app/api?username=SmallCoral&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Github stats](https://github-profile-trophy.vercel.app/?username=SmallCoral)
