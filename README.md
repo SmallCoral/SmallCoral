@@ -115,10 +115,5 @@ JavaScript               1 repo              ██░░░░░░░░░�
 ```
 
 
-**Timeline**
-
-![Chart not found](https://raw.githubusercontent.com/SmallCoral/SmallCoral/main/charts/bar_graph.png) 
-
-
  Last Updated on 01/10/2022 20:25:12 UTC
 <!--END_SECTION:waka-->
