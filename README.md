@@ -23,6 +23,7 @@ Here are some ideas to get you started:
 #### 👩‍💻 About Me
 
 - 🏫 I'm currently in a high schoool.
+- 👀 I’m interested in IT
 - 🌱 I’m currently learning: 
 ![Python](https://img.shields.io/badge/-Python-blue?style=flat-square&logo=Python&logoColor=fff)
 ![C++](https://img.shields.io/badge/-C%2B%2B-00599C?style=flat-square&logo=C%2B%2B&logoColor=fff)
