@@ -46,18 +46,6 @@ Here are some ideas to get you started:
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-23%20Thousand%20lines%20of%20code-blue)
 
-**🐱 My GitHub Data** 
-
-> 🏆 664 Contributions in the Year 2022
- > 
-> 📦 1.9 MB Used in GitHub's Storage 
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 28 Public Repositories 
- > 
-> 🔑 2 Private Repositories  
- > 
 **I'm an Early 🐤** 
 ```text
 🌞 Morning    77 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.87% 
