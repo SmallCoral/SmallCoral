@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 ![C++](https://img.shields.io/badge/-C%2B%2B-00599C?style=flat-square&logo=C%2B%2B&logoColor=fff)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-ffca18?style=flat-square&logo=JavaScript&logoColor=fff)
 ![Vue](https://img.shields.io/badge/-Vue-4FC08D?style=flat-square&logo=Vue.js&logoColor=fff)
-![Java](https://img.shields.io/badge/-Java-FCC624?style=flat-square&logo=OpenJDK&logoColor=fff)
+![Java](https://img.shields.io/badge/-OpenJDK-FCC624?style=flat-square&logo=OpenJDK&logoColor=fff)
 
 #### 📊 Cool Charts
 
