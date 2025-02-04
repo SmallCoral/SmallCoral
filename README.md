@@ -19,11 +19,11 @@
 
 [![website](./img/bilibili.svg)](https://space.bilibili.com/517434964?spm_id_from=333.1365.0.0)
 &nbsp;&nbsp;
-[![website](./img/csdn.svg)](https://youtube.com/codestackr#gh-light-mode-only)
+[![website](./img/csdn.svg)](https://youtube.com/codestackr)
 &nbsp;&nbsp;
-[![website](./img/jlc.svg)](https://twitter.com/codestackr#gh-light-mode-only)
+[![website](./img/jlc.svg)](https://twitter.com/codestackr)
 &nbsp;&nbsp;
-[![website](./img/steam.svg)](https://linkedin.com/in/codeSTACKr#gh-light-mode-only)
+[![website](./img/steam.svg)](https://linkedin.com/in/codeSTACKr)
 
 #### 📊 Cool Charts
 
