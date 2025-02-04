@@ -45,7 +45,7 @@
 <img align="left" alt="vofa" width="26px" src="img/vofa.svg" style="padding-right:10px;" />
 <img align="left" alt="keil" width="26px" src="img/keil.svg" style="padding-right:10px;" />
 <img align="left" alt="lceda" width="26px" src="img/lceda.svg" style="padding-right:10px;" />
-<img align="left" alt="ST" width="26px" src="img/ST.svg" style="padding-right:10px;" />
+<img align="left" alt="ST" width="45px" src="img/ST.svg" style="padding-right:10px;" />
 <img align="left" alt="matlab" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" style="padding-right:10px;" />
 <img align="left" alt="linux" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" style="padding-right:10px;" />
 <img align="left" alt="windows11" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" style="padding-right:10px;" />
