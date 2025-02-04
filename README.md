@@ -46,6 +46,8 @@
 <img align="left" alt="archlinux" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/archlinux/archlinux-original.svg" style="padding-right:10px;" />
 <img align="left" alt="windows11" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" style="padding-right:10px;" />
 <img align="left" alt="linux" width="26px" src="img/steam.svg" style="padding-right:10px;" />
+<img align="left" alt="linux" width="26px" src="img/vofa.svg" style="padding-right:10px;" />
+<img align="left" alt="linux" width="26px" src="img/keil.svg" style="padding-right:10px;" />
 <img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
 <img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />
 
