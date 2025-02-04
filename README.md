@@ -17,7 +17,7 @@
 
 ### Connect with me:
 
-[![website](./img/globe-light.svg)](https://codestackr.com#gh-light-mode-only)
+[![website](./img/bilibili.svg)](https://space.bilibili.com/517434964?spm_id_from=333.1365.0.0)
 [![website](./img/globe-dark.svg)](https://codestackr.com#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![bilibili Subscribers](https://img.shields.io/badge/-bilibili-jVSd6VJkbCw?logo=bilibili&logoColor=white&style=for-the-badge)][bilibili]
