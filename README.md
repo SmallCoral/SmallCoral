@@ -21,20 +21,6 @@
 [![嘉立创](https://img.shields.io/badge/-嘉立创-47848F?logo=electron&logoColor=white&style=for-the-badge)][jlc]
 [![Steam](https://img.shields.io/badge/-Steam-000000?logo=steam&logoColor=white&style=for-the-badge)][steam]
 
-#### 📊 Cool Charts
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SmallCoral&layout=compact&theme=dark)
-
-[![Github stats](https://github-readme-stats.vercel.app/api?username=SmallCoral&show_icons=true&locale=cn&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
-
-<!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-115%20hrs%2050%20mins-blue)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-23%20Thousand%20lines%20of%20code-blue)
-
 ### Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
@@ -55,6 +41,20 @@
 <br />
 
 ---
+
+#### 📊 Cool Charts
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SmallCoral&layout=compact&theme=dark)
+
+[![Github stats](https://github-readme-stats.vercel.app/api?username=SmallCoral&show_icons=true&locale=cn&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+
+<!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-115%20hrs%2050%20mins-blue)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-23%20Thousand%20lines%20of%20code-blue)
 
 **I'm an Early 🐤** 
 ```text
