@@ -11,19 +11,15 @@
 ![arm](https://img.shields.io/badge/-Arm-0091BD?style=flat-square&logo=arm&logoColor=fff)
 ![electron](https://img.shields.io/badge/-电子-47848F?style=flat-square&logo=electron&logoColor=fff)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=fff)
+- 🥅 2025 Goals: Learn more about embedded.
 - 💞️ I’m looking to collaborate on JLC.
 - 📫 How to reach me：Shan_Hu_MC@outlook.com
-- 😄 Pronouns: XiaoShanHu,小珊瑚
 
 ### Connect with me:
-
-[![website](./img/bilibili.svg)](https://space.bilibili.com/517434964?spm_id_from=333.1365.0.0)
-&nbsp;&nbsp;
-[![website](./img/csdn.svg)](https://youtube.com/codestackr)
-&nbsp;&nbsp;
-[![website](./img/jlc.svg)](https://twitter.com/codestackr)
-&nbsp;&nbsp;
-[![website](./img/steam.svg)](https://linkedin.com/in/codeSTACKr)
+[![bilibili up](https://img.shields.io/badge/-bilibili-00A1D6?logo=bilibili&logoColor=white&style=for-the-badge)][bilibili]
+[![csdn](https://img.shields.io/badge/-csdn-FC5531?logo=csdn&logoColor=white&style=for-the-badge)][csdn]
+[![嘉立创](https://img.shields.io/badge/-嘉立创-47848F?logo=electron&logoColor=white&style=for-the-badge)][jlc]
+[![Steam](https://img.shields.io/badge/-Steam-000000?logo=steam&logoColor=white&style=for-the-badge)][steam]
 
 #### 📊 Cool Charts
 
@@ -38,6 +34,25 @@
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-23%20Thousand%20lines%20of%20code-blue)
+
+### Languages and Tools:
+
+<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
+<img align="left" alt="clion" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/clion/clion-original.svg" style="padding-right:10px;" />
+<img align="left" alt="intellij" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" style="padding-right:10px;" />
+<img align="left" alt="pycharm" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" style="padding-right:10px;" />
+<img align="left" alt="matlab" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" style="padding-right:10px;" />
+<img align="left" alt="linux" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" style="padding-right:10px;" />
+<img align="left" alt="archlinux" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/archlinux/archlinux-original.svg" style="padding-right:10px;" />
+<img align="left" alt="windows11" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" style="padding-right:10px;" />
+<img align="left" alt="linux" width="26px" src="img/steam.svg" style="padding-right:10px;" />
+<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
+<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />
+
+<br />
+<br />
+
+---
 
 **I'm an Early 🐤** 
 ```text
@@ -99,3 +114,6 @@ JavaScript               1 repo              ██░░░░░░░░░�
 
 [smallcoral]: https://smallcoral.github.io
 [bilibili]: https://space.bilibili.com/517434964?spm_id_from=333.1365.0.0
+[csdn]: https://blog.csdn.net/Shan_Hu_MC?utm_source=app&app_version=6.5.6
+[jlc]:https://oshwhub.com/smallcoral/works
+[steam]:https://steamcommunity.com/id/smallcoral
