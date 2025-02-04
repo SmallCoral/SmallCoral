@@ -18,9 +18,12 @@
 ### Connect with me:
 
 [![website](./img/bilibili.svg)](https://space.bilibili.com/517434964?spm_id_from=333.1365.0.0)
-[![website](./img/globe-dark.svg)](https://codestackr.com#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![bilibili Subscribers](https://img.shields.io/badge/-bilibili-jVSd6VJkbCw?logo=bilibili&logoColor=white&style=for-the-badge)][bilibili]
+[![website](./img/csdn.svg)](https://youtube.com/codestackr#gh-light-mode-only)
+&nbsp;&nbsp;
+[![website](./img/jlc.svg)](https://twitter.com/codestackr#gh-light-mode-only)
+&nbsp;&nbsp;
+[![website](./img/steam.svg)](https://linkedin.com/in/codeSTACKr#gh-light-mode-only)
 
 #### 📊 Cool Charts
 
