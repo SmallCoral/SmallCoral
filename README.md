@@ -1,35 +1,26 @@
-<!---
-- 👋 Hi, I’m @SmallCoral
-- 👀 I’m interested in IT
-- 🌱 I’m currently learning C++,Java
-- 💞️ I’m looking to collaborate on Microsoft
-- 📫 How to reach me：Shan_Hu_MC@outlook.com
---->
-### Hi there 👋
-
-<!--
-**SmallCoral/SmallCoral** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-Here are some ideas to get you started:
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Hi there, I'm SmallCoral - aka [小珊瑚][smallcoral] 👋 
 
 #### 👩‍💻 About Me
 
 - 🏫 I'm currently a university student.
 - 👀 I’m interested in embedded hardware.
 - 🌱 I’m currently learning:
-![C++](https://img.shields.io/badge/-C%2B%2B-00599C?style=flat-square&logo=C%2B%2B&logoColor=fff)
-![STM32](https://img.shields.io/badge/-STM32-blue?style=flat-square&logo=stmicroelectronics&logoColor=fff)
-![arm](https://img.shields.io/badge/-Arm-ffca18?style=flat-square&logo=arm&logoColor=fff)
-![electron](https://img.shields.io/badge/-电子-4FC08D?style=flat-square&logo=electron&logoColor=fff)
+![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=C&logoColor=fff)
+![STM32](https://img.shields.io/badge/-STM32-03234B?style=flat-square&logo=stmicroelectronics&logoColor=fff)
+![PCB](https://img.shields.io/badge/-PCB-A5915F?style=flat-square&logo=altiumdesigner&logoColor=fff)
+![arm](https://img.shields.io/badge/-Arm-0091BD?style=flat-square&logo=arm&logoColor=fff)
+![electron](https://img.shields.io/badge/-电子-47848F?style=flat-square&logo=electron&logoColor=fff)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=fff)
+- 💞️ I’m looking to collaborate on JLC.
+- 📫 How to reach me：Shan_Hu_MC@outlook.com
+- 😄 Pronouns: XiaoShanHu,小珊瑚
+
+### Connect with me:
+
+[![website](./img/globe-light.svg)](https://codestackr.com#gh-light-mode-only)
+[![website](./img/globe-dark.svg)](https://codestackr.com#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![bilibili Subscribers](https://img.shields.io/badge/-bilibili-jVSd6VJkbCw?logo=bilibili&logoColor=white&style=for-the-badge)][bilibili]
 
 #### 📊 Cool Charts
 
@@ -102,3 +93,6 @@ JavaScript               1 repo              ██░░░░░░░░░�
 
  Last Updated on 01/10/2022 20:25:12 UTC
 <!--END_SECTION:waka-->
+
+[smallcoral]: https://smallcoral.github.io
+[bilibili]: https://space.bilibili.com/517434964?spm_id_from=333.1365.0.0
