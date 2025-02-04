@@ -22,14 +22,14 @@ Here are some ideas to get you started:
 
 #### 👩‍💻 About Me
 
-- 🏫 I'm currently in a high schoool.
-- 👀 I’m interested in IT.
-- 🌱 I’m currently learning: 
-![Python](https://img.shields.io/badge/-Python-blue?style=flat-square&logo=Python&logoColor=fff)
+- 🏫 I'm currently a university student.
+- 👀 I’m interested in embedded hardware.
+- 🌱 I’m currently learning:
 ![C++](https://img.shields.io/badge/-C%2B%2B-00599C?style=flat-square&logo=C%2B%2B&logoColor=fff)
-![JavaScript](https://img.shields.io/badge/-JavaScript-ffca18?style=flat-square&logo=JavaScript&logoColor=fff)
-![Vue](https://img.shields.io/badge/-Vue-4FC08D?style=flat-square&logo=Vue.js&logoColor=fff)
-![Java](https://img.shields.io/badge/-OpenJDK-FCC624?style=flat-square&logo=OpenJDK&logoColor=fff)
+![STM32](https://img.shields.io/badge/-STM32-blue?style=flat-square&logo=stmicroelectronics&logoColor=fff)
+![arm](https://img.shields.io/badge/-Arm-ffca18?style=flat-square&logo=arm&logoColor=fff)
+![electron](https://img.shields.io/badge/-电子-4FC08D?style=flat-square&logo=electron&logoColor=fff)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=fff)
 
 #### 📊 Cool Charts
 
