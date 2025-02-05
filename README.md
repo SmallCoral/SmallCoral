@@ -11,6 +11,7 @@
 ![arm](https://img.shields.io/badge/-Arm-0091BD?style=flat-square&logo=arm&logoColor=fff)
 ![electron](https://img.shields.io/badge/-电子-47848F?style=flat-square&logo=electron&logoColor=fff)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=fff)
+- ⚡ Fun fact: My favorite games are Minecraft and Hollow Knight.
 - 🥅 2025 Goals: Learn more about embedded.
 - 💞️ I’m looking to collaborate on JLC.
 - 📫 How to reach me：Shan_Hu_MC@outlook.com
@@ -29,6 +30,7 @@
 <img align="left" alt="clion" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/clion/clion-original.svg" style="padding-right:10px;" />
 <img align="left" alt="steam" width="26px" src="img/steam.svg" style="padding-right:10px;" />
 <img align="left" alt="vofa" width="26px" src="img/vofa.svg" style="padding-right:10px;" />
+<img align="left" alt="electron" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg" style="padding-right:10px;" />
 <img align="left" alt="keil" width="26px" src="img/keil.svg" style="padding-right:10px;" />
 <img align="left" alt="lceda" width="26px" src="img/lceda.svg" style="padding-right:10px;" />
 <img align="left" alt="ST" width="45px" src="img/ST.svg" style="padding-right:10px;" />
@@ -42,12 +44,16 @@
 
 ---
 
-#### 📊 Cool Charts
+<details>
+  <summary>📊 Cool Charts</summary>
+
+<br />
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SmallCoral&layout=compact&theme=dark)
 
 [![Github stats](https://github-readme-stats.vercel.app/api?username=SmallCoral&show_icons=true&locale=cn&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
+</details>
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-115%20hrs%2050%20mins-blue)
@@ -56,14 +62,12 @@
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-23%20Thousand%20lines%20of%20code-blue)
 
-**I'm an Early 🐤** 
-```text
-🌞 Morning    77 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.87% 
-🌆 Daytime    195 commits    ████████████░░░░░░░░░░░░░   47.79% 
-🌃 Evening    93 commits     █████░░░░░░░░░░░░░░░░░░░░   22.79% 
-🌙 Night      43 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.54%
-```
-📅 **I'm Most Productive on Saturday** 
+<details>
+  <summary>About Me 😆</summary>
+
+<br />
+
+📅 **I'm Most Productive on Saturday**
 
 ```text
 Monday       71 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.4% 
@@ -75,44 +79,61 @@ Saturday     80 commits     █████░░░░░░░░░░░░�
 Sunday       68 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.67%
 ```
 
-
-📊 **This Week I Spent My Time On** 
+📊 **This year I spent**
 
 ```text
 ⌚︎ Time Zone: Asia/Shanghai
 💬 Programming Languages: 
-Java                     1 hr 58 mins        ███████████░░░░░░░░░░░░░░   44.74% 
-C++                      38 mins             ███░░░░░░░░░░░░░░░░░░░░░░   14.67% 
-Python                   35 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.51% 
-JavaScript               31 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.74% 
-Other                    29 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   11.21%
+STM32                    100 hr 58 mins      ████████████████░░░░░░░░░   32.9% 
+C                        33 hr               ██░░░░░░░░░░░░░░░░░░░░░░░   10.7% 
+PCB                      128 hr              ██████████████████████░░░   41.7% 
+Digital Circuit          30 hr               ███░░░░░░░░░░░░░░░░░░░░░░   9.8% 
+Other                    15 hr               ██░░░░░░░░░░░░░░░░░░░░░░░   4.9%
 🔥 Editors: 
-VS Code                  3 hrs 53 mins       ██████████████████████░░░   88.52% 
-Word                     28 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   10.69% 
-Zsh                      2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.8%
+Clion                    53 hrs 53 mins      ██████████████████████░░░   71.79% 
+Keil                     21 hr               ██░░░░░░░░░░░░░░░░░░░░░░░   27.98% 
+STM32CubeMX              10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   0.23%
 🐱‍💻 Projects: 
-helloworld               1 hr 41 mins        █████████░░░░░░░░░░░░░░░░   38.38% 
-Unknown Project          1 hr                █████░░░░░░░░░░░░░░░░░░░░   23.06% 
-bzisc.saurlax.com        53 mins             █████░░░░░░░░░░░░░░░░░░░░   20.14% 
-braligne-formatter       29 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   11.33% 
-bzstu                    16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   6.3%
+STM32Car                 1 hr 41 mins        █████████░░░░░░░░░░░░░░░░   39.0% 
+STM32-Clion              1 hr                █████░░░░░░░░░░░░░░░░░░░░   23.2% 
+smallcoral.github.io     53 mins             ████░░░░░░░░░░░░░░░░░░░░░   20.4% 
+SmallCoral               29 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   11.1% 
+CaptainWordTester-zh     16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   6.3%
 💻 Operating System: 
-Linux                    2 hrs 16 mins       █████████████░░░░░░░░░░░░   51.58% 
-Windows                  2 hrs 7 mins        ████████████░░░░░░░░░░░░░   48.42%
+Windows                  98%                 ██████████████████████░░░   98% 
+Linux                    2%                  ░░░░░░░░░░░░░░░░░░░░░░░░░   2%
 ```
 
-**I Mostly Code in Java** 
+**I Mostly Code in C**
 
 ```text
-Java                     7 repos             ████████████████░░░░░░░░░   63.64% 
+C                        7 repos             ████████████████░░░░░░░░░   63.64% 
 C++                      2 repos             ████░░░░░░░░░░░░░░░░░░░░░   18.18% 
 Python                   1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   9.09% 
-JavaScript               1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   9.09%
+Linux Shell              1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   9.09%
 ```
 
+</details>
 
- Last Updated on 01/10/2022 20:25:12 UTC
-<!--END_SECTION:waka-->
+---
+
+### 📺 Latest bilibili Videos
+
+<!-- BILIBILI:START -->
+- [这才是真正的虚空神之愤怒！红黑双亡怒杀穿竞技场3](https://www.bilibili.com/video/BV1qtknYYEqn/)
+- [乐意效劳，但是MC【2025Minecraft新春会单品】](https://www.bilibili.com/video/BV1daFnerENK/)
+- [如何使用Clion结合cubeMX更优雅的进行嵌入式开发](https://www.bilibili.com/video/BV1zpwhejExe/)
+- [红石女孩重度依赖【2024Minecraft新春会单品】](https://www.bilibili.com/video/BV1T4421w7cM/)
+- [一位萌新第一次打过五门后又苦练了几个月，这是他修行后的结果](https://www.bilibili.com/video/BV1rG6PYQEVt/)
+<!-- BILIBILI:END -->
+
+➡️ [more videos...](https://space.bilibili.com/517434964)
+
+---
+
+ Last Updated on 02/5/2025 15:13:12 UTC
+
+</details>
 
 [smallcoral]: https://smallcoral.github.io
 [bilibili]: https://space.bilibili.com/517434964?spm_id_from=333.1365.0.0
