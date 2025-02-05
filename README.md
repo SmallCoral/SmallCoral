@@ -25,9 +25,8 @@
 ### Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
-<img align="left" alt="intellij" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" style="padding-right:10px;" />
-<img align="left" alt="pycharm" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" style="padding-right:10px;" />
 <img align="left" alt="clion" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/clion/clion-original.svg" style="padding-right:10px;" />
+<img align="left" alt="pycharm" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" style="padding-right:10px;" />
 <img align="left" alt="steam" width="26px" src="img/steam.svg" style="padding-right:10px;" />
 <img align="left" alt="vofa" width="26px" src="img/vofa.svg" style="padding-right:10px;" />
 <img align="left" alt="electron" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg" style="padding-right:10px;" />
@@ -36,31 +35,18 @@
 <img align="left" alt="ST" width="45px" src="img/ST.svg" style="padding-right:10px;" />
 <img align="left" alt="matlab" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" style="padding-right:10px;" />
 <img align="left" alt="linux" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" style="padding-right:10px;" />
-<img align="left" alt="windows11" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" style="padding-right:10px;" />
 <img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />
-
-<br />
 <br />
 
 ---
 
-<details>
-  <summary>📊 Cool Charts</summary>
-
-<br />
+📊 Cool Charts
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SmallCoral&layout=compact&theme=dark)
 
 [![Github stats](https://github-readme-stats.vercel.app/api?username=SmallCoral&show_icons=true&locale=cn&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-</details>
-
-<!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-115%20hrs%2050%20mins-blue)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-23%20Thousand%20lines%20of%20code-blue)
+---
 
 <details>
   <summary>About Me 😆</summary>
