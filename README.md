@@ -40,11 +40,20 @@
 
 ---
 
-📊 Cool Charts
+## 📊 Cool Charts
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SmallCoral&layout=compact&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SmallCoral&layout=compact&theme=dark)<br/>
+[![Github stats](https://github-readme-stats.vercel.app/api?username=SmallCoral&show_icons=true&locale=cn&theme=dark)](https://github.com/anuraghazra/github-readme-stats)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=SmallCoral&theme=dark&hide_border=false)
 
-[![Github stats](https://github-readme-stats.vercel.app/api?username=SmallCoral&show_icons=true&locale=cn&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=SmallCoral&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=SmallCoral&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
 
