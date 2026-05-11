@@ -42,9 +42,14 @@
 
 ## 📊 Cool Charts
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SmallCoral&layout=compact&theme=dark)<br/>
-[![Github stats](https://github-readme-stats.vercel.app/api?username=SmallCoral&show_icons=true&locale=cn&theme=dark)](https://github.com/anuraghazra/github-readme-stats)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=SmallCoral&theme=dark&hide_border=false)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height="200" align="center" alt="SmallCoral's GitHub stats" src="./profile/stats.svg" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height="200" align="center" alt="SmallCoral's top languages" src="./profile/top-langs.svg" />
+</a>
+<br/>
+![SmallCoral's GitHub streak](https://streak-stats.demolab.com/?user=SmallCoral&theme=dark&hide_border=false)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=SmallCoral&theme=radical&no-frame=false&no-bg=true&margin-w=4)
