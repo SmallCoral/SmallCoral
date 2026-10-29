@@ -1,15 +1,22 @@
-
-    <svg width="576.5"  height="120" viewBox="0 0 576.5 120" fill="#ffffff00" xmlns="http://www.w3.org/2000/svg">
-    <style>
-    .text { font: 600 16px 'Segoe UI', Ubuntu, Sans-Serif; fill: #006AFF }
-    .small { font: 600 12px 'Segoe UI', Ubuntu, Sans-Serif; fill: #417E87 }
-    .gray { fill: #858585 }
-    </style>
-    <rect x="0.5" y="0.5" width="575.5" height="99%" rx="4.5" fill="#ffffff00" stroke="#e4e2e2"/>
-    <text x="25" y="45" class="text">Something went wrong! file an issue at https://tiny.one/readme-stats</text>
-    <text data-testid="message" x="25" y="55" class="text small">
-      <tspan x="25" dy="18">Resource not accessible by integration</tspan>
-      <tspan x="25" dy="18" class="gray">OK</tspan>
-    </text>
-    </svg>
-  
+<svg xmlns="http://www.w3.org/2000/svg" width="420" height="230" viewBox="0 0 420 230" role="img" aria-labelledby="title desc">
+  <title id="title">SmallCoral&apos;s GitHub</title>
+  <desc id="desc">Repositories: 11; Stars earned: 11; Forks received: 0; Followers: 22</desc>
+  <style>
+    text { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; fill: #c9d1d9; }
+    .heading { font-size: 18px; font-weight: 600; fill: #58a6ff; }
+    .label { font-size: 12px; }
+    .value { font-size: 27px; font-weight: 600; fill: #f0f6fc; }
+    .muted { font-size: 11px; fill: #8b949e; }
+  </style>
+  <rect x=".5" y=".5" width="419" height="229" rx="8" fill="#0d1117" stroke="#30363d" />
+  <text x="24" y="34" class="heading">SmallCoral&apos;s GitHub</text>
+  <text x="24" y="78" class="value">11</text>
+  <text x="24" y="98" class="label">Repositories</text>
+  <text x="220" y="78" class="value">11</text>
+  <text x="220" y="98" class="label">Stars earned</text>
+  <text x="24" y="142" class="value">0</text>
+  <text x="24" y="162" class="label">Forks received</text>
+  <text x="220" y="142" class="value">22</text>
+  <text x="220" y="162" class="label">Followers</text>
+  <text x="24" y="212" class="muted">Public, non-fork repos · Updated 2026-10-29 UTC</text>
+</svg>

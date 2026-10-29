@@ -1,273 +1,39 @@
-
-      <svg
-        width="300"
-        height="190"
-        viewBox="0 0 300 190"
-        fill="none"
-        xmlns="http://www.w3.org/2000/svg"
-        role="img"
-        aria-labelledby="descId"
-      >
-        <title id="titleId"></title>
-        <desc id="descId"></desc>
-        <style>
-          .header {
-            font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
-            fill: #006AFF;
-            animation: fadeInAnimation 0.8s ease-in-out forwards;
-          }
-          @supports(-moz-appearance: auto) {
-            /* Selector detects Firefox */
-            .header { font-size: 15.5px; }
-          }
-          
-    @keyframes slideInAnimation {
-      from {
-        width: 0;
-      }
-      to {
-        width: calc(100%-100px);
-      }
-    }
-    @keyframes growWidthAnimation {
-      from {
-        width: 0;
-      }
-      to {
-        width: 100%;
-      }
-    }
-    .stat {
-      font: 600 14px 'Segoe UI', Ubuntu, "Helvetica Neue", Sans-Serif; fill: #417E87;
-    }
-    @supports(-moz-appearance: auto) {
-      /* Selector detects Firefox */
-      .stat { font-size:12px; }
-    }
-    .bold { font-weight: 700 }
-    .lang-name {
-      font: 400 11px "Segoe UI", Ubuntu, Sans-Serif;
-      fill: #417E87;
-    }
-    .stagger {
-      opacity: 0;
-      animation: fadeInAnimation 0.3s ease-in-out forwards;
-    }
-    #rect-mask rect{
-      animation: slideInAnimation 1s ease-in-out forwards;
-    }
-    .lang-progress{
-      animation: growWidthAnimation 0.6s ease-in-out forwards;
-    }
-    
-
-          
-      /* Animations */
-      @keyframes scaleInAnimation {
-        from {
-          transform: translate(-5px, 5px) scale(0);
-        }
-        to {
-          transform: translate(-5px, 5px) scale(1);
-        }
-      }
-      @keyframes fadeInAnimation {
-        from {
-          opacity: 0;
-        }
-        to {
-          opacity: 1;
-        }
-      }
-    
-          
-        </style>
-
-        
-
-        <rect
-          data-testid="card-bg"
-          x="0.5"
-          y="0.5"
-          rx="4.5"
-          height="99%"
-          stroke="#e4e2e2"
-          width="299"
-          fill="#ffffff00"
-          stroke-opacity="0"
-        />
-
-        
-      <g
-        data-testid="card-title"
-        transform="translate(25, 35)"
-      >
-        <g transform="translate(0, 0)">
-      <text
-        x="0"
-        y="0"
-        class="header"
-        data-testid="header"
-      >Most Used Languages</text>
-    </g>
-      </g>
-    
-
-        <g
-          data-testid="main-card-body"
-          transform="translate(0, 55)"
-        >
-          
-    <svg data-testid="lang-items" x="25">
-      
-  
-      <mask id="rect-mask">
-          <rect x="0" y="0" width="250" height="8" fill="white" rx="5"/>
-        </mask>
-        
-        <rect
-          mask="url(#rect-mask)"
-          data-testid="lang-progress"
-          x="0"
-          y="0"
-          width="145.22"
-          height="8"
-          fill="#555555"
-        />
-      
-        <rect
-          mask="url(#rect-mask)"
-          data-testid="lang-progress"
-          x="145.22"
-          y="0"
-          width="24.39"
-          height="8"
-          fill="#3178c6"
-        />
-      
-        <rect
-          mask="url(#rect-mask)"
-          data-testid="lang-progress"
-          x="169.61"
-          y="0"
-          width="17.65"
-          height="8"
-          fill="#6E4C13"
-        />
-      
-        <rect
-          mask="url(#rect-mask)"
-          data-testid="lang-progress"
-          x="187.26000000000002"
-          y="0"
-          width="17.64"
-          height="8"
-          fill="#663399"
-        />
-      
-        <rect
-          mask="url(#rect-mask)"
-          data-testid="lang-progress"
-          x="204.90000000000003"
-          y="0"
-          width="14.53"
-          height="8"
-          fill="#e34c26"
-        />
-      
-        <rect
-          mask="url(#rect-mask)"
-          data-testid="lang-progress"
-          x="219.43000000000004"
-          y="0"
-          width="11.36"
-          height="8"
-          fill="#dea584"
-        />
-      
-        <rect
-          mask="url(#rect-mask)"
-          data-testid="lang-progress"
-          x="230.79000000000002"
-          y="0"
-          width="10.42"
-          height="8"
-          fill="#012456"
-        />
-      
-        <rect
-          mask="url(#rect-mask)"
-          data-testid="lang-progress"
-          x="241.21"
-          y="0"
-          width="18.79"
-          height="8"
-          fill="#46390b"
-        />
-      
-      
-    <g transform="translate(0, 25)">
-      <g transform="translate(0, 0)"><g transform="translate(0, 0)">
-    <g class="stagger" style="animation-delay: 450ms">
-      <circle cx="5" cy="6" r="5" fill="#555555" />
-      <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        C 58.09%
-      </text>
-    </g>
-  </g><g transform="translate(0, 25)">
-    <g class="stagger" style="animation-delay: 600ms">
-      <circle cx="5" cy="6" r="5" fill="#3178c6" />
-      <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        TypeScript 9.76%
-      </text>
-    </g>
-  </g><g transform="translate(0, 50)">
-    <g class="stagger" style="animation-delay: 750ms">
-      <circle cx="5" cy="6" r="5" fill="#6E4C13" />
-      <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Assembly 7.06%
-      </text>
-    </g>
-  </g><g transform="translate(0, 75)">
-    <g class="stagger" style="animation-delay: 900ms">
-      <circle cx="5" cy="6" r="5" fill="#663399" />
-      <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        CSS 7.06%
-      </text>
-    </g>
-  </g></g><g transform="translate(150, 0)"><g transform="translate(0, 0)">
-    <g class="stagger" style="animation-delay: 450ms">
-      <circle cx="5" cy="6" r="5" fill="#e34c26" />
-      <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        HTML 5.81%
-      </text>
-    </g>
-  </g><g transform="translate(0, 25)">
-    <g class="stagger" style="animation-delay: 600ms">
-      <circle cx="5" cy="6" r="5" fill="#dea584" />
-      <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Rust 4.54%
-      </text>
-    </g>
-  </g><g transform="translate(0, 50)">
-    <g class="stagger" style="animation-delay: 750ms">
-      <circle cx="5" cy="6" r="5" fill="#012456" />
-      <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        PowerShell 4.17%
-      </text>
-    </g>
-  </g><g transform="translate(0, 75)">
-    <g class="stagger" style="animation-delay: 900ms">
-      <circle cx="5" cy="6" r="5" fill="#46390b" />
-      <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        SuperCollider 3.52%
-      </text>
-    </g>
-  </g></g>
-    </g>
-  
-    </svg>
-  
-        </g>
-      </svg>
-    
+<svg xmlns="http://www.w3.org/2000/svg" width="420" height="230" viewBox="0 0 420 230" role="img" aria-labelledby="title desc">
+  <title id="title">Most Used Languages</title>
+  <desc id="desc">Code bytes across public non-fork repositories. C: 12580121 bytes; Rust: 153971 bytes; TypeScript: 141942 bytes; Assembly: 123878 bytes; CSS: 92843 bytes; Other: 345986 bytes</desc>
+  <style>
+    text { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; fill: #c9d1d9; }
+    .heading { font-size: 18px; font-weight: 600; fill: #58a6ff; }
+    .label { font-size: 12px; }
+    .value { font-size: 27px; font-weight: 600; fill: #f0f6fc; }
+    .muted { font-size: 11px; fill: #8b949e; }
+  </style>
+  <rect x=".5" y=".5" width="419" height="229" rx="8" fill="#0d1117" stroke="#30363d" />
+  <text x="24" y="34" class="heading">Most Used Languages</text>
+  <rect x="24.000" y="57" width="348.232" height="10" fill="#58a6ff" />
+  <rect x="372.232" y="57" width="4.262" height="10" fill="#56d4dd" />
+  <rect x="376.494" y="57" width="3.929" height="10" fill="#d2a8ff" />
+  <rect x="380.424" y="57" width="3.429" height="10" fill="#ffa657" />
+  <rect x="383.853" y="57" width="2.570" height="10" fill="#7ee787" />
+  <rect x="386.423" y="57" width="9.577" height="10" fill="#8b949e" />
+  <circle cx="28" cy="94" r="4" fill="#58a6ff" />
+  <text x="39" y="98" class="label">C</text>
+  <text x="199" y="98" text-anchor="end" class="muted">93.6%</text>
+  <circle cx="224" cy="94" r="4" fill="#56d4dd" />
+  <text x="235" y="98" class="label">Rust</text>
+  <text x="395" y="98" text-anchor="end" class="muted">1.1%</text>
+  <circle cx="28" cy="125" r="4" fill="#d2a8ff" />
+  <text x="39" y="129" class="label">TypeScript</text>
+  <text x="199" y="129" text-anchor="end" class="muted">1.1%</text>
+  <circle cx="224" cy="125" r="4" fill="#ffa657" />
+  <text x="235" y="129" class="label">Assembly</text>
+  <text x="395" y="129" text-anchor="end" class="muted">0.9%</text>
+  <circle cx="28" cy="156" r="4" fill="#7ee787" />
+  <text x="39" y="160" class="label">CSS</text>
+  <text x="199" y="160" text-anchor="end" class="muted">0.7%</text>
+  <circle cx="224" cy="156" r="4" fill="#8b949e" />
+  <text x="235" y="160" class="label">Other</text>
+  <text x="395" y="160" text-anchor="end" class="muted">2.6%</text>
+  <text x="24" y="187" class="muted">By code bytes · Not a measure of proficiency</text>
+  <text x="24" y="212" class="muted">Public, non-fork repos · Updated 2026-10-29 UTC</text>
+</svg>
