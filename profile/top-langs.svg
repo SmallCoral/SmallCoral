@@ -3,32 +3,32 @@
   <desc id="desc">Code bytes across public non-fork repositories. C: 12580121 bytes; Rust: 153971 bytes; TypeScript: 141942 bytes; Assembly: 123878 bytes; CSS: 92843 bytes; Other: 345986 bytes</desc>
   <style>
     text { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; fill: #c9d1d9; }
-    .heading { font-size: 18px; font-weight: 600; fill: #58a6ff; }
+    .heading { font-size: 18px; font-weight: 600; fill: #56d4dd; }
     .label { font-size: 12px; }
     .value { font-size: 27px; font-weight: 600; fill: #f0f6fc; }
     .muted { font-size: 11px; fill: #8b949e; }
   </style>
   <rect x=".5" y=".5" width="419" height="229" rx="8" fill="#0d1117" stroke="#30363d" />
   <text x="24" y="34" class="heading">Most Used Languages</text>
-  <rect x="24.000" y="57" width="348.232" height="10" fill="#58a6ff" />
-  <rect x="372.232" y="57" width="4.262" height="10" fill="#56d4dd" />
-  <rect x="376.494" y="57" width="3.929" height="10" fill="#d2a8ff" />
-  <rect x="380.424" y="57" width="3.429" height="10" fill="#ffa657" />
-  <rect x="383.853" y="57" width="2.570" height="10" fill="#7ee787" />
+  <rect x="24.000" y="57" width="348.232" height="10" fill="#56d4dd" />
+  <rect x="372.232" y="57" width="4.262" height="10" fill="#58a6ff" />
+  <rect x="376.494" y="57" width="3.929" height="10" fill="#79c0ff" />
+  <rect x="380.424" y="57" width="3.429" height="10" fill="#a5d8f3" />
+  <rect x="383.853" y="57" width="2.570" height="10" fill="#b3ecf0" />
   <rect x="386.423" y="57" width="9.577" height="10" fill="#8b949e" />
-  <circle cx="28" cy="94" r="4" fill="#58a6ff" />
+  <circle cx="28" cy="94" r="4" fill="#56d4dd" />
   <text x="39" y="98" class="label">C</text>
   <text x="199" y="98" text-anchor="end" class="muted">93.6%</text>
-  <circle cx="224" cy="94" r="4" fill="#56d4dd" />
+  <circle cx="224" cy="94" r="4" fill="#58a6ff" />
   <text x="235" y="98" class="label">Rust</text>
   <text x="395" y="98" text-anchor="end" class="muted">1.1%</text>
-  <circle cx="28" cy="125" r="4" fill="#d2a8ff" />
+  <circle cx="28" cy="125" r="4" fill="#79c0ff" />
   <text x="39" y="129" class="label">TypeScript</text>
   <text x="199" y="129" text-anchor="end" class="muted">1.1%</text>
-  <circle cx="224" cy="125" r="4" fill="#ffa657" />
+  <circle cx="224" cy="125" r="4" fill="#a5d8f3" />
   <text x="235" y="129" class="label">Assembly</text>
   <text x="395" y="129" text-anchor="end" class="muted">0.9%</text>
-  <circle cx="28" cy="156" r="4" fill="#7ee787" />
+  <circle cx="28" cy="156" r="4" fill="#b3ecf0" />
   <text x="39" y="160" class="label">CSS</text>
   <text x="199" y="160" text-anchor="end" class="muted">0.7%</text>
   <circle cx="224" cy="156" r="4" fill="#8b949e" />

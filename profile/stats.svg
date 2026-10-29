@@ -3,7 +3,7 @@
   <desc id="desc">Repositories: 11; Stars earned: 11; Forks received: 0; Followers: 22</desc>
   <style>
     text { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; fill: #c9d1d9; }
-    .heading { font-size: 18px; font-weight: 600; fill: #58a6ff; }
+    .heading { font-size: 18px; font-weight: 600; fill: #56d4dd; }
     .label { font-size: 12px; }
     .value { font-size: 27px; font-weight: 600; fill: #f0f6fc; }
     .muted { font-size: 11px; fill: #8b949e; }

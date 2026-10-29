@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="224" viewBox="0 0 960 224" role="img" aria-labelledby="title desc">
+  <title id="title">SmallCoral Hardware Lab</title>
+  <desc id="desc">Build the board. Bring it to life. An abstract circuit board connects schematics, firmware and board bring-up.</desc>
+  <defs>
+    <pattern id="grid" width="24" height="24" patternUnits="userSpaceOnUse">
+      <path d="M24 0H0V24" fill="none" stroke="#213448" stroke-width="0.7" opacity="0.45"/>
+    </pattern>
+    <linearGradient id="fade" x1="0" y1="0" x2="1" y2="0">
+      <stop stop-color="#0d1117"/>
+      <stop offset="1" stop-color="#101f2d"/>
+    </linearGradient>
+  </defs>
+  <rect x="0.5" y="0.5" width="959" height="223" rx="12" fill="url(#fade)" stroke="#26384b"/>
+  <rect x="540" y="1" width="419" height="222" rx="12" fill="url(#grid)"/>
+  <path d="M32 32V192" stroke="#56d4dd" stroke-width="3"/>
+  <g font-family="-apple-system, BlinkMacSystemFont, Segoe UI, sans-serif">
+    <text x="52" y="44" fill="#56d4dd" font-size="12" font-weight="600" letter-spacing="2.4">SMALLCORAL / HARDWARE LAB</text>
+    <text x="50" y="94" fill="#f0f6fc" font-size="36" font-weight="650">Build the board.</text>
+    <text x="50" y="136" fill="#f0f6fc" font-size="36" font-weight="650">Bring it to life.</text>
+    <text x="52" y="183" fill="#91a4b7" font-size="12" letter-spacing="1.6">SCHEMATICS / FIRMWARE / BRING-UP</text>
+  </g>
+  <g fill="none" stroke="#31566d" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M686 82H638L605 49H553M686 98H623L594 69H568M686 114H607L577 144H548M686 130H639L590 179H547M686 146H650L618 198H581"/>
+    <path d="M784 82H817L845 54H908M784 98H836L864 70H924M784 114H853L880 141H921M784 130H834L874 170H911M784 146H812L858 192H895"/>
+    <path d="M718 64V46L697 25H660M734 64V26M750 64V41L765 26H814M718 162V188L702 204M734 162V204M750 162V185L768 203H819"/>
+  </g>
+  <g fill="none" stroke="#56d4dd" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M686 98H623L594 69H568M784 114H853L880 141H921M734 64V26"/>
+  </g>
+  <rect x="686" y="64" width="98" height="98" rx="9" fill="#102431" stroke="#56d4dd" stroke-width="1.5"/>
+  <rect x="699" y="77" width="72" height="72" rx="4" fill="#0d1823" stroke="#28495b"/>
+  <g stroke="#8db7c5" stroke-width="3">
+    <path d="M700 57V64M710 57V64M720 57V64M730 57V64M740 57V64M750 57V64M760 57V64M770 57V64M700 162V169M710 162V169M720 162V169M730 162V169M740 162V169M750 162V169M760 162V169M770 162V169"/>
+    <path d="M679 78H686M679 88H686M679 98H686M679 108H686M679 118H686M679 128H686M679 138H686M679 148H686M784 78H791M784 88H791M784 98H791M784 108H791M784 118H791M784 128H791M784 138H791M784 148H791"/>
+  </g>
+  <g fill="#0d1117" stroke="#56d4dd" stroke-width="1.6">
+    <circle cx="568" cy="69" r="4"/><circle cx="921" cy="141" r="4"/><circle cx="734" cy="26" r="4"/>
+  </g>
+  <g fill="#0d1117" stroke="#426881" stroke-width="1.4">
+    <circle cx="553" cy="49" r="3"/><circle cx="548" cy="144" r="3"/><circle cx="547" cy="179" r="3"/><circle cx="581" cy="198" r="3"/>
+    <circle cx="908" cy="54" r="3"/><circle cx="924" cy="70" r="3"/><circle cx="911" cy="170" r="3"/><circle cx="895" cy="192" r="3"/>
+  </g>
+  <text x="735" y="121" fill="#56d4dd" font-family="Consolas, monospace" font-size="25" font-weight="600" text-anchor="middle">SC</text>
+  <circle cx="706" cy="84" r="2" fill="#d5b88b"/>
+</svg>

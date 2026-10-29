@@ -60,7 +60,7 @@ function card(title, description, body) {
   <desc id="desc">${escape(description)}</desc>
   <style>
     text { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; fill: #c9d1d9; }
-    .heading { font-size: 18px; font-weight: 600; fill: #58a6ff; }
+    .heading { font-size: 18px; font-weight: 600; fill: #56d4dd; }
     .label { font-size: 12px; }
     .value { font-size: 27px; font-weight: 600; fill: #f0f6fc; }
     .muted { font-size: 11px; fill: #8b949e; }
@@ -87,7 +87,7 @@ const statsBody = metrics.map(([label, value], index) => {
 }).join('\n  ');
 const stats = card(`${owner}'s GitHub`, metrics.map(([label, value]) => `${label}: ${value}`).join('; '), statsBody);
 
-const colors = ['#58a6ff', '#56d4dd', '#d2a8ff', '#ffa657', '#7ee787', '#8b949e'];
+const colors = ['#56d4dd', '#58a6ff', '#79c0ff', '#a5d8f3', '#b3ecf0', '#8b949e'];
 let offset = 24;
 const segments = top.map(([, bytes], index) => {
   const width = bytes / totalBytes * 372;
