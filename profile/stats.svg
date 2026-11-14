@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="420" height="230" viewBox="0 0 420 230" role="img" aria-labelledby="title desc">
   <title id="title">SmallCoral&apos;s GitHub</title>
-  <desc id="desc">Repositories: 12; Stars earned: 12; Forks received: 0; Followers: 21</desc>
+  <desc id="desc">Repositories: 13; Stars earned: 12; Forks received: 0; Followers: 21</desc>
   <style>
     text { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; fill: #c9d1d9; }
     .heading { font-size: 18px; font-weight: 600; fill: #56d4dd; }
@@ -10,7 +10,7 @@
   </style>
   <rect x=".5" y=".5" width="419" height="229" rx="8" fill="#0d1117" stroke="#30363d" />
   <text x="24" y="34" class="heading">SmallCoral&apos;s GitHub</text>
-  <text x="24" y="78" class="value">12</text>
+  <text x="24" y="78" class="value">13</text>
   <text x="24" y="98" class="label">Repositories</text>
   <text x="220" y="78" class="value">12</text>
   <text x="220" y="98" class="label">Stars earned</text>
