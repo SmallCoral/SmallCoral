@@ -16,7 +16,14 @@ I'm a Communication Engineering undergraduate building embedded hardware and fir
 
 ## Tools
 
-C/C++ · STM32 · SAMD21 · KiCad · LCEDA · OpenOCD · Git · Linux
+```mermaid
+flowchart TB
+    accTitle: SmallCoral's embedded development tools
+    Stack["Embedded development"]
+    Stack --- Hardware["PCB design"] --- CAD["KiCad · LCEDA"]
+    Stack --- Firmware["MCU firmware"] --- MCU["C/C++ · STM32 · SAMD21"]
+    Stack --- Debug["Debugging & workflow"] --- Tools["OpenOCD · Git · Linux"]
+```
 
 <details>
 <summary>Other projects</summary>
