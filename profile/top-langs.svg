@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="420" height="230" viewBox="0 0 420 230" role="img" aria-labelledby="title desc">
   <title id="title">Most Used Languages</title>
-  <desc id="desc">Code bytes across public non-fork repositories. HTML: 20061391 bytes; C: 13014270 bytes; Python: 904136 bytes; Rust: 332205 bytes; TypeScript: 141942 bytes; Other: 519094 bytes</desc>
+  <desc id="desc">Code bytes across public non-fork repositories. HTML: 20061391 bytes; C: 13026857 bytes; Python: 912724 bytes; Rust: 726482 bytes; TypeScript: 141942 bytes; Other: 519291 bytes</desc>
   <style>
     text { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; fill: #c9d1d9; }
     .heading { font-size: 18px; font-weight: 600; fill: #56d4dd; }
@@ -10,24 +10,24 @@
   </style>
   <rect x=".5" y=".5" width="419" height="229" rx="8" fill="#0d1117" stroke="#30363d" />
   <text x="24" y="34" class="heading">Most Used Languages</text>
-  <rect x="24.000" y="57" width="213.388" height="10" fill="#56d4dd" />
-  <rect x="237.388" y="57" width="138.430" height="10" fill="#58a6ff" />
-  <rect x="375.818" y="57" width="9.617" height="10" fill="#79c0ff" />
-  <rect x="385.435" y="57" width="3.534" height="10" fill="#a5d8f3" />
-  <rect x="388.969" y="57" width="1.510" height="10" fill="#b3ecf0" />
-  <rect x="390.479" y="57" width="5.521" height="10" fill="#8b949e" />
+  <rect x="24.000" y="57" width="210.882" height="10" fill="#56d4dd" />
+  <rect x="234.882" y="57" width="136.936" height="10" fill="#58a6ff" />
+  <rect x="371.818" y="57" width="9.594" height="10" fill="#79c0ff" />
+  <rect x="381.413" y="57" width="7.637" height="10" fill="#a5d8f3" />
+  <rect x="389.049" y="57" width="1.492" height="10" fill="#b3ecf0" />
+  <rect x="390.541" y="57" width="5.459" height="10" fill="#8b949e" />
   <circle cx="28" cy="94" r="4" fill="#56d4dd" />
   <text x="39" y="98" class="label">HTML</text>
-  <text x="199" y="98" text-anchor="end" class="muted">57.4%</text>
+  <text x="199" y="98" text-anchor="end" class="muted">56.7%</text>
   <circle cx="224" cy="94" r="4" fill="#58a6ff" />
   <text x="235" y="98" class="label">C</text>
-  <text x="395" y="98" text-anchor="end" class="muted">37.2%</text>
+  <text x="395" y="98" text-anchor="end" class="muted">36.8%</text>
   <circle cx="28" cy="125" r="4" fill="#79c0ff" />
   <text x="39" y="129" class="label">Python</text>
   <text x="199" y="129" text-anchor="end" class="muted">2.6%</text>
   <circle cx="224" cy="125" r="4" fill="#a5d8f3" />
   <text x="235" y="129" class="label">Rust</text>
-  <text x="395" y="129" text-anchor="end" class="muted">0.9%</text>
+  <text x="395" y="129" text-anchor="end" class="muted">2.1%</text>
   <circle cx="28" cy="156" r="4" fill="#b3ecf0" />
   <text x="39" y="160" class="label">TypeScript</text>
   <text x="199" y="160" text-anchor="end" class="muted">0.4%</text>
@@ -35,5 +35,5 @@
   <text x="235" y="160" class="label">Other</text>
   <text x="395" y="160" text-anchor="end" class="muted">1.5%</text>
   <text x="24" y="187" class="muted">By code bytes · Not a measure of proficiency</text>
-  <text x="24" y="212" class="muted">Public, non-fork repos · Updated 2026-11-24 UTC</text>
+  <text x="24" y="212" class="muted">Public, non-fork repos · Updated 2026-11-25 UTC</text>
 </svg>
